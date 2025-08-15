@@ -1,6 +1,6 @@
 .imagens {
     float:left;
-    width: 270px;
+    width: 400px;
     margin-right:15px;
     margin-bottom: 15;
 }
@@ -13,5 +13,10 @@ h1{
 h2{
     background-color:pink;
     color:white;
+}
+
+h3{
+    
+    color:pink;
 }
 
